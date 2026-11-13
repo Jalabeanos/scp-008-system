@@ -1,11 +1,18 @@
 # Features
 Toolgun setup tool to define the trigger door (or button/entity) and the infection zone(s) in-game, with a live preview.
+
 Door-based release: SCP-008 is active for as long as the trigger door is open. Anyone already inside the zone, or who walks in while it's open, gets infected.
+
 Hidden incubation: a random 30 second to 5 minute delay (configurable) before symptoms begin.
+
 Symptoms: coughing, view punches, a red desaturated screen with blur that ramps up, and damage over time that never kills before the player turns.
+
 Zombie transformation: after a while the player gets a zombie playermodel, loses all weapons except the claws, and gets 500-800 health.
+
 SCP-008-2 SWEP: the zombie's claws. Anyone hit is infected.
+
 SCP-500 entity: eat it to cure the infection and restore max health.
+
 Saves per map, with admin console commands and a config file.
 # Installation
 Download this repository.
